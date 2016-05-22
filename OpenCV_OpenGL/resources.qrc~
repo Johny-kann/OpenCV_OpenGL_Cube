@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cube.bmp</file>
+        <file>tf2.frag</file>
+        <file>tv2.vert</file>
+        <file>image/Output.png</file>
+        <file>image/Output.bmp</file>
+    </qresource>
+</RCC>
